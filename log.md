@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
 ### Day 1: March 27, 2021
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started the challenge by publicly committing on Twitter
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Super excited!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Create a Text FieldPassed](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
