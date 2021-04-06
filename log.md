@@ -6,7 +6,7 @@
 
 **Thoughts:** Super excited!
 
-**Link to work:** [Created a Text Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field), [Added Placeholder Text to a Text Field] (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field) 
+**Link to work:** [Created a Text Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field), [Added Placeholder Text to a Text Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field), [Created a Form Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-form-element), [Added a Submit Button to a Form](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form), [Used HTML5 to Require a Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field), [Created a Set of Radio Buttons](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons), [Created a Set of Checkboxes](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
