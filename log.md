@@ -16,6 +16,7 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
 
+--------------------------------------------------------------------------------------------
 
 ### Day 3: March 29, 2021
 
@@ -26,6 +27,7 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
 
+--------------------------------------------------------------------------------------------
 
 ### Day 4: March 30, 2021
 
@@ -35,6 +37,7 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
 
+--------------------------------------------------------------------------------------------
 
 ### Day 5: March 31, 2021
 
@@ -42,6 +45,7 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
 
+--------------------------------------------------------------------------------------------
 
 ### Day 6: April 1, 2021
 
@@ -49,6 +53,7 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
 
+--------------------------------------------------------------------------------------------
 
 ### Day 7: April 2, 2021
 
@@ -58,6 +63,7 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
 
+--------------------------------------------------------------------------------------------
 
 ### Day 8: April 3, 2021
 
@@ -68,6 +74,7 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
 
+--------------------------------------------------------------------------------------------
 
 ### Day 9: April 4, 2021
 
@@ -75,6 +82,7 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
 
+--------------------------------------------------------------------------------------------
 
 ### Day 10: April 5, 2021
 
@@ -82,3 +90,4 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
 
+--------------------------------------------------------------------------------------------
