@@ -8,3 +8,12 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
 
+--------------------------------------------------------------------------------------------
+
+### Day 2: March 28, 2021
+
+**Today's Progress**: Finished Basic HTML and HTML 5
+
+**Thoughts:** 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
