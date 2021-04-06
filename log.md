@@ -14,6 +14,71 @@
 
 **Today's Progress**: Finished Basic HTML and HTML 5
 
-**Thoughts:** 
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+
+
+### Day 3: March 29, 2021
+
+**Today's Progress**: Learned 
+• Change the color of the text 
+• Use CSS selectors to style elements 
+• Use a CSS class to style an element 
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+
+
+### Day 4: March 30, 2021
+
+**Today's Progress**: Learned
+• Style multiple elements with a CSS class 
+• Change the font size of an element 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+
+
+### Day 5: March 31, 2021
+
+**Today's Progress**: Learned how to set the font family of an element in Basic CSS 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+
+
+### Day 6: April 1, 2021
+
+**Today's Progress**: Learned how to import a Google font; specify how fonts should degrade; change the size of the image 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+
+
+### Day 7: April 2, 2021
+
+**Today's Progress**: Still learning Basic CSS 
+• adding borders around elements 
+• adding rounded corners with a border-radius
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+
+
+### Day 8: April 3, 2021
+
+**Today's Progress**: Learned 
+• making circular images with a border-radius 
+• adding background-color
+• setting id of an element
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+
+
+### Day 9: April 4, 2021
+
+**Today's Progress**: Learned using an id attribute to style an element 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+
+
+### Day 10: April 5, 2021
+
+**Today's Progress**: Learned Karel basics for Code in Place 2021 application
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+
