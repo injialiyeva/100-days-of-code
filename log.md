@@ -88,6 +88,6 @@
 
 **Today's Progress**: Learned Karel basics for Code in Place 2021 application
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+**Link to work:** [Karel the Robot](https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html). 
 
 --------------------------------------------------------------------------------------------
