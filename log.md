@@ -91,3 +91,13 @@
 **Link to work:** [Karel the Robot](https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html). 
 
 --------------------------------------------------------------------------------------------
+
+### Day 11: April 6, 2021
+
+**Today's Progress**: Learned 
+• adjust the padding of an element 
+• adjust the margin of an element 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+
+--------------------------------------------------------------------------------------------
