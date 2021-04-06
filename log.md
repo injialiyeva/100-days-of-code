@@ -6,7 +6,7 @@
 
 **Thoughts:** Super excited!
 
-**Link to work:** [Create a Text FieldPassed](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field)
+**Link to work:** [Created a Text Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field), [Added Placeholder Text to a Text Field] (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field) 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
