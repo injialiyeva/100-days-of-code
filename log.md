@@ -6,5 +6,5 @@
 
 **Thoughts:** Super excited!
 
-**Link to work:** [FreeCodeCamp.com](https://www.freecodecamp.org/inji_aliyeva).
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
 
