@@ -101,3 +101,10 @@
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
 
 --------------------------------------------------------------------------------------------
+
+### Day 12: April 7, 2021
+
+**Today's Progress**: Did a few Karel exercises for Code In Place 2021 application
+
+--------------------------------------------------------------------------------------------
+
