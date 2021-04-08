@@ -108,3 +108,14 @@
 
 --------------------------------------------------------------------------------------------
 
+### Day 13: April 8, 2021
+
+**Today's Progress**: Learned how to
+• add different padding and margins to each side of an element
+• add a negative margin to an element 
+
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+
+--------------------------------------------------------------------------------------------
+
