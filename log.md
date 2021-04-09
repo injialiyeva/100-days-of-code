@@ -6,7 +6,7 @@
 
 **Thoughts:** Super excited!
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva).
 
 --------------------------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 
 **Today's Progress**: Finished Basic HTML and HTML 5
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva).
 
 --------------------------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@
 • Use CSS selectors to style elements 
 • Use a CSS class to style an element 
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva).
 
 --------------------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@
 • Style multiple elements with a CSS class 
 • Change the font size of an element 
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva).
 
 --------------------------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@
 
 **Today's Progress**: Learned how to set the font family of an element in Basic CSS 
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva).
 
 --------------------------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@
 
 **Today's Progress**: Learned how to import a Google font; specify how fonts should degrade; change the size of the image 
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva).
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva).
 
 --------------------------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@
 • adding borders around elements 
 • adding rounded corners with a border-radius
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@
 • adding background-color
 • setting id of an element
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@
 
 **Today's Progress**: Learned using an id attribute to style an element 
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@
 • adjust the padding of an element 
 • adjust the margin of an element 
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
 
@@ -114,8 +114,17 @@
 • add different padding and margins to each side of an element
 • add a negative margin to an element 
 
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/inji_aliyeva). 
+--------------------------------------------------------------------------------------------
+
+### Day 14: April 9, 2021
+
+**Today's Progress**: Learned how to
+• use clockwise notation to specify the margin/padding of an element 
+• use attribute selectors to style elements 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
 
