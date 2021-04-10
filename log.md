@@ -128,3 +128,11 @@
 
 --------------------------------------------------------------------------------------------
 
+### Day 15: April 10, 2021
+
+**Today's Progress**: Learned how to style the HTML body element & understood absolute versus relative units 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
