@@ -136,3 +136,16 @@
 
 --------------------------------------------------------------------------------------------
 
+### Day 16: April 11, 2021
+
+**Today's Progress**: Did these tasks on the Responsive Web Design course
+• inherit styles from the body element
+• prioritize one style over another 
+• override styles in subsequent CSS
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+
+
