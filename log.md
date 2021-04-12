@@ -147,5 +147,18 @@
 
 --------------------------------------------------------------------------------------------
 
+### Day 17: April 12, 2021
+
+**Today's Progress**: Did these tasks on the Responsive Web Design course
+• override class declarations by styling ID attributes 
+• override class declarations with inline styles
+• override all other styles by using important
+• use hex code for specific colors
+• use hex code to mix colors 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
 
 
