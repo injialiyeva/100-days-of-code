@@ -160,5 +160,13 @@
 
 --------------------------------------------------------------------------------------------
 
+### Day 18: April 13, 2021
+
+**Today's Progress**: I did last 11 tasks today and finished Basic CSS on #ResponsiveWebDesign course 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
 
 
