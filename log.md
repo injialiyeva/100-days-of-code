@@ -168,5 +168,12 @@
 
 --------------------------------------------------------------------------------------------
 
+### Day 19: April 14, 2021
+
+**Today's Progress**: Started Applied Visual Design course
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
 
 
