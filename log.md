@@ -183,5 +183,12 @@
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
+ 
+### Day 21: April 16, 2021
 
+**Today's Progress**: Learned about box-shadow, opacity, font-size/ font-weight/ line-height, relative position
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
 
