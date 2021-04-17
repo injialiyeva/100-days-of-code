@@ -192,3 +192,15 @@
 
 --------------------------------------------------------------------------------------------
 
+### Day 22: April 17, 2021
+
+**Today's Progress**: Learned 
+• lock an element to its parent with absolute positioning & to browser window with fixed positioning
+• use z - index property 
+• about complementary & tertiary colors 
+• adjust the hue of a color 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
