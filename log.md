@@ -204,3 +204,17 @@
 
 --------------------------------------------------------------------------------------------
 
+### Day 23: April 18, 2021
+
+**Today's Progress**: Still doing the "Applied Visual Design" section in the #ResponsiveWebDesign course 
+
+Today I did a few tasks about 
+• tone of color
+• linear gradient 
+• skew property 
+• creating complex shapes using CSS and HTML 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
