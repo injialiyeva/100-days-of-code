@@ -218,3 +218,11 @@ Today I did a few tasks about
 
 --------------------------------------------------------------------------------------------
 
+### Day 24: April 19, 2021
+
+**Today's Progress**: Just completed Applied Visual Design on Responsive Web Design course 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
