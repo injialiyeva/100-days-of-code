@@ -226,3 +226,16 @@ Today I did a few tasks about
 
 --------------------------------------------------------------------------------------------
 
+### Day 25: April 20, 2021
+
+**Today's Progress**: Started Applied Accessibility 
+• added a text alternative to images
+• used alt text 
+• used headings to show hierarchical relationship of content
+• did wrap content in the article element  
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------  
+
+
