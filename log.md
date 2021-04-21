@@ -238,4 +238,16 @@ Today I did a few tasks about
 
 --------------------------------------------------------------------------------------------  
 
+### Day 26: April 21, 2021
+
+**Today's Progress**: I learned how to use 
+• nav / footer landmark 
+• audio element  
+• label element 
+• figure element
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------  
+
 
