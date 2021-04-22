@@ -250,4 +250,16 @@ Today I did a few tasks about
 
 --------------------------------------------------------------------------------------------  
 
+### Day 27: April 22, 2021
+
+**Today's Progress**:  Did 
+• wrap radio buttons in a fieldset element for better accessibility
+• add an accessible date picker
+• standardize times with the HTML5 datetime attribute
+• make elements only visible to a screen reader by using custom CSS 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------  
+
 
