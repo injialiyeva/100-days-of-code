@@ -262,4 +262,15 @@ Today I did a few tasks about
 
 --------------------------------------------------------------------------------------------  
 
+### Day 28: April 23, 2021
+
+**Today's Progress**:  Completed 
+• Applied Accessibility course
+• Responsive Web Design Principles course
+
+and started CSS Flexbox course :) 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+-------------------------------------------------------------------------------------------- 
 
