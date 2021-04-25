@@ -282,3 +282,11 @@ and started CSS Flexbox course :)
 
 -------------------------------------------------------------------------------------------- 
 
+### Day 30: April 25, 2021
+
+**Today's Progress**:  Completed CSS Grid which is last course of Responsive Web Design 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+-------------------------------------------------------------------------------------------- 
+
