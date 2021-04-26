@@ -290,3 +290,11 @@ and started CSS Flexbox course :)
 
 -------------------------------------------------------------------------------------------- 
 
+### Day 31: April 26, 2021
+
+**Today's Progress**:  Started building a tribute page 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+-------------------------------------------------------------------------------------------- 
+
