@@ -297,4 +297,14 @@ and started CSS Flexbox course :)
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 -------------------------------------------------------------------------------------------- 
+ 
+### Day 32: April 27, 2021
+
+**Today's Progress**:  Did some Karel exercises for Code In Place'21
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+-------------------------------------------------------------------------------------------- 
+
+
 
