@@ -302,8 +302,6 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  Did some Karel exercises for Code In Place'21
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
-
 -------------------------------------------------------------------------------------------- 
 
 
