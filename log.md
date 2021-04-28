@@ -304,5 +304,14 @@ and started CSS Flexbox course :)
 
 -------------------------------------------------------------------------------------------- 
 
+### Day 33: April 28, 2021
+
+**Today's Progress**:  Just finished the "Build a Tribute Page" Project of the Responsive Web Design course @freeCodeCamp!
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva), [FFC: Tribute Page](https://codepen.io/injialiyeva/full/gOgyEdZ)
+
+-------------------------------------------------------------------------------------------- 
+ 
+
 
 
