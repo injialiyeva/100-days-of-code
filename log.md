@@ -311,6 +311,14 @@ and started CSS Flexbox course :)
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva), [FFC: Tribute Page](https://codepen.io/injialiyeva/full/gOgyEdZ)
 
 -------------------------------------------------------------------------------------------- 
+
+### Day 34: April 29, 2021
+
+**Today's Progress**:  Building a survey form for Responsive Web Design Projects 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva).
+
+-------------------------------------------------------------------------------------------- 
  
 
 
