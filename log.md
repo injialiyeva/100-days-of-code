@@ -319,7 +319,14 @@ and started CSS Flexbox course :)
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva).
 
 -------------------------------------------------------------------------------------------- 
- 
+  
+ ### Day 35: April 30, 2021
+
+**Today's Progress**:  Still working on Responsive Web Design Projects
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva).
+
+-------------------------------------------------------------------------------------------- 
 
 
 
