@@ -352,3 +352,11 @@ and started CSS Flexbox course :)
 
 -------------------------------------------------------------------------------------------- 
 
+### Day 39: May 4, 2021
+
+**Today's Progress**:  Working on Survey Form Project 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva).
+
+-------------------------------------------------------------------------------------------- 
+
