@@ -364,7 +364,7 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  Finished the Survey Form Project 
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva), [Survey Form Project](https://codepen.io/injialiyeva/full/ExZzdad).
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva), [Survey Form Project](https://codepen.io/injialiyeva/full/ExZzdad). 
 
 -------------------------------------------------------------------------------------------- 
 
