@@ -360,3 +360,11 @@ and started CSS Flexbox course :)
 
 -------------------------------------------------------------------------------------------- 
 
+### Day 40: May 5, 2021
+
+**Today's Progress**:  Finished the Survey Form Project 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva), [Survey Form Project](https://codepen.io/injialiyeva/full/ExZzdad).
+
+-------------------------------------------------------------------------------------------- 
+
