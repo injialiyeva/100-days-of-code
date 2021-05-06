@@ -368,3 +368,12 @@ and started CSS Flexbox course :)
 
 -------------------------------------------------------------------------------------------- 
 
+### Day 41: May 6, 2021
+
+**Today's Progress**:  Working on Technical Documentation Page Project
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+-------------------------------------------------------------------------------------------- 
+
+
