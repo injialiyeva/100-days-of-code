@@ -407,4 +407,21 @@ and started CSS Flexbox course :)
 
 -------------------------------------------------------------------------------------------- 
 
+### Day 46: May 11, 2021
+
+**Today's Progress**:  Couldn't make much progress today. I'll finish Technical Documentation Page Project tomorrow
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+-------------------------------------------------------------------------------------------- 
+
+### Day 47: May 12, 2021
+
+**Today's Progress**:  Finished the Technical Documentation Page Project
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva), [Technical Documentation Page Project](https://codepen.io/injialiyeva/full/xxqZpYQ). 
+
+-------------------------------------------------------------------------------------------- 
+
+
 
