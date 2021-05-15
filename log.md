@@ -423,5 +423,38 @@ and started CSS Flexbox course :)
 
 -------------------------------------------------------------------------------------------- 
 
+### Day 48: May 13, 2021
+
+**Today's Progress**:  Did some tasks for #CodeInPlace 
+
+-------------------------------------------------------------------------------------------- 
+
+### Day 49: May 14, 2021
+
+**Today's Progress**:  • read this helpful article by 
+@zubinpratap -> https://freecodecamp.org/news/from-lawyer-to-google-engineer/  
+
+• started the JavaScript Algorithms and Data Structures Course 
+@freeCodeCamp
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+-------------------------------------------------------------------------------------------- 
+
+### Day 50: May 15, 2021
+
+**Today's Progress**: Did some Basic JavaScript tasks about 
+• commenting 
+• variables
+• assignment operator 
+• adding, subtracting, multiplying, dividing numbers 
+• increment & decrement
+• decimal numbers
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+-------------------------------------------------------------------------------------------- 
+
+
 
 
