@@ -455,6 +455,21 @@ and started CSS Flexbox course :)
 
 -------------------------------------------------------------------------------------------- 
 
+### Day 51: May 16, 2021
+
+**Today's Progress**: I didn't make much progress. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+-------------------------------------------------------------------------------------------- 
+
+### Day 52: May 17, 2021
+
+**Today's Progress**: Compound Assignment With Augmented Addition / Subtraction / Multiplication / Division
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+-------------------------------------------------------------------------------------------- 
 
 
 
