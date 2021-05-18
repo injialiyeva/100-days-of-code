@@ -471,5 +471,15 @@ and started CSS Flexbox course :)
 
 -------------------------------------------------------------------------------------------- 
 
+### Day 53: May 18, 2021
 
+**Today's Progress**: Learned 
+• quotes in strings 
+• concatenating strings with Plus & Plus Equals operators
+• constructing strings with variables
+• finding length of a string
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
 
