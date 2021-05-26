@@ -483,3 +483,66 @@ and started CSS Flexbox course :)
 
 --------------------------------------------------------------------------------------------
 
+### Day 54: May 19, 2021
+
+**Today's Progress**: Still learning Basic JavaScript course @freeCodeCamp
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 55: May 20, 2021
+
+**Today's Progress**: Learned about using bracket notation to find the Nth, last, Nth-to-last characters in a string; word blanks. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 56: May 21, 2021
+
+**Today's Progress**: Learned about using bracket notation to find Nth-to-last characters in a string; word blanks. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 57: May 22, 2021
+
+**Today's Progress**: I'm still learning the Basic JavaScript course @freeCodeCamp
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 58: May 23, 2021
+
+**Today's Progress**: I'm still learning the Basic JavaScript course @freeCodeCamp
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 59: May 24, 2021
+
+**Today's Progress**: I'm still learning the Basic JavaScript course @freeCodeCamp
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 60: May 25, 2021
+
+**Today's Progress**: I'm still learning the Basic JavaScript course @freeCodeCamp
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 61: May 26, 2021
+
+**Today's Progress**: Learned about how to use multi-dimensional arrays, and manipulate arrays with push(), pop(), shift(), unshift() functions in JavaScript
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
