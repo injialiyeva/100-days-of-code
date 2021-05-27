@@ -546,3 +546,11 @@ and started CSS Flexbox course :)
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
+
+### Day 62: May 27, 2021
+
+**Today's Progress**: Did tasks about functions
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
