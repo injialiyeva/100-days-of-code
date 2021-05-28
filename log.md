@@ -554,3 +554,11 @@ and started CSS Flexbox course :)
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
+
+### Day 63: May 28, 2021
+
+**Today's Progress**: Did some tasks about Local and Global scope in Functions
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
