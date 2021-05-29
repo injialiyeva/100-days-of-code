@@ -562,3 +562,14 @@ and started CSS Flexbox course :)
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
+
+### Day 64: May 29, 2021
+
+**Today's Progress**: Learned about 
+• boolean values 
+• if statements
+• different forms of equality, greater than and less than operators
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
