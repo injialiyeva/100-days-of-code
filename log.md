@@ -581,3 +581,27 @@ and started CSS Flexbox course :)
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
+
+### Day 66: May 31, 2021
+
+**Today's Progress**: Learned and did some tasks about switch statements 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 67: June 1, 2021
+
+**Today's Progress**: Learned and did some tasks about switch statements 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 68: June 1, 2021
+
+**Today's Progress**: Learned and did some tasks about switch statements 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
