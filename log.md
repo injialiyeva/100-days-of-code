@@ -598,9 +598,25 @@ and started CSS Flexbox course :)
 
 --------------------------------------------------------------------------------------------
 
-### Day 68: June 1, 2021
+### Day 68: June 2, 2021
 
 **Today's Progress**: Learned and did some tasks about switch statements 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 69: June 3, 2021
+
+**Today's Progress**: Still learning Basic JavaScript course @freeCodeCamp
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+--------------------------------------------------------------------------------------------
+
+### Day 70: June 4, 2021
+
+**Today's Progress**: Did some tasks about the switch, if-else statements, boolen values 
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
