@@ -629,3 +629,10 @@ and started CSS Flexbox course :)
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
 --------------------------------------------------------------------------------------------
+
+### Day 72: June 16, 2021
+
+**Today's Progress**: Did some tasks about nested objects and arrays in JavaScript
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
