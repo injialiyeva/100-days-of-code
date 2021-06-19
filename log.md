@@ -636,3 +636,11 @@ and started CSS Flexbox course :)
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
+--------------------------------------------------------------------------------------------
+
+### Day 73: June 19, 2021
+
+**Today's Progress**: Did while and for loop tasks in Basic JavaScript course
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
