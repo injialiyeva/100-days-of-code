@@ -644,3 +644,12 @@ and started CSS Flexbox course :)
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
+--------------------------------------------------------------------------------------------
+
+### Day 74: July 18, 2021
+
+**Today's Progress**: Had to take a break because of exams, now I'm back. ✔ Completed a few tasks about loops
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
+
+
