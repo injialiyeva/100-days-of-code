@@ -652,4 +652,11 @@ and started CSS Flexbox course :)
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/injialiyeva). 
 
+--------------------------------------------------------------------------------------------
+
+### Day 75: July 21, 2021
+
+**Today's Progress**: Completed some Karel challenges
+
+
 
