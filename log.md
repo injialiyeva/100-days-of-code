@@ -664,3 +664,9 @@ and started CSS Flexbox course :)
 
 **Today's Progress**: Completed "Control Flow with Karel" tasks
 
+--------------------------------------------------------------------------------------------
+
+### Day 77: July 24, 2021
+
+**Today's Progress**: Watched some lessons about loops 
+
