@@ -670,3 +670,15 @@ and started CSS Flexbox course :)
 
 **Today's Progress**: Watched some lessons about loops 
 
+--------------------------------------------------------------------------------------------
+
+### Day 78: July 25, 2021
+
+**Today's Progress**: Completed Lesson 3: Decomposition of Code In Place 
+
+--------------------------------------------------------------------------------------------
+
+### Day 79: July 26, 2021
+
+**Today's Progress**: Started to learn Python 
+
