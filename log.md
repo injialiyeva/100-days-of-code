@@ -682,3 +682,15 @@ and started CSS Flexbox course :)
 
 **Today's Progress**: Started to learn Python 
 
+--------------------------------------------------------------------------------------------
+
+### Day 80: July 27, 2021
+
+**Today's Progress**:  Learned how to calculate arithmetic (math) expressions using python
+
+--------------------------------------------------------------------------------------------
+
+### Day 81: July 29, 2021
+
+**Today's Progress**:  Learned how to use constants and the random number generator
+
