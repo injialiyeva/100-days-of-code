@@ -694,3 +694,17 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  Learned how to use constants and the random number generator
 
+--------------------------------------------------------------------------------------------
+
+### Day 82: July 30, 2021
+
+**Today's Progress**:  Watched some Python lessons from Code In Place'21 and did few tasks about it
+
+--------------------------------------------------------------------------------------------
+
+### Day 83: July 31, 2021
+
+**Today's Progress**:  Watched some Python lessons from Code In Place'21 and did few tasks about it
+
+
+
