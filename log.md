@@ -706,5 +706,10 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  Watched some Python lessons from Code In Place'21 and did few tasks about it
 
+--------------------------------------------------------------------------------------------
+
+### Day 84: August 1, 2021
+
+**Today's Progress**:  Learned how to combine variables with control flow, write conditions for while and if statements, use the index variable of a for loop w/Python
 
 
