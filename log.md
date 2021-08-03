@@ -712,4 +712,18 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  Learned how to combine variables with control flow, write conditions for while and if statements, use the index variable of a for loop w/Python
 
+--------------------------------------------------------------------------------------------
+
+### Day 85: August 2, 2021
+
+**Today's Progress**:  did some assignment challenges
+
+--------------------------------------------------------------------------------------------
+
+### Day 86: August 3, 2021
+
+**Today's Progress**:  Still learning Python
+
+✔  Learned how to define functions which can be passed information via parameters, and which can return information
+
 
