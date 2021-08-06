@@ -726,4 +726,10 @@ and started CSS Flexbox course :)
 
 ✔  Learned how to define functions which can be passed information via parameters, and which can return information
 
+--------------------------------------------------------------------------------------------
+
+### Day 87: August 6, 2021
+
+**Today's Progress**:  did some tasks in Python
+
 
