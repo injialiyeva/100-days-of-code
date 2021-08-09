@@ -732,4 +732,10 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  did some tasks in Python
 
+--------------------------------------------------------------------------------------------
+
+### Day 88: August 9, 2021
+
+**Today's Progress**:  Couldn't do much progress in a few days, still learning Python with Code In Place 
+
 
