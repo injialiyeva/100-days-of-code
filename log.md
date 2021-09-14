@@ -738,4 +738,23 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  Couldn't do much progress in a few days, still learning Python with Code In Place 
 
+--------------------------------------------------------------------------------------------
+
+### Day 89: September 9, 2021
+
+**Today's Progress**:  After taking a break from coding for a month, I'm back. Today I did solve few simple problems in Code In Place
+
+--------------------------------------------------------------------------------------------
+
+### Day 90: September 10, 2021
+
+**Today's Progress**:  Learned how to trace control flow, write and run doctests
+
+--------------------------------------------------------------------------------------------
+
+### Day 91: September 14, 2021
+
+**Today's Progress**:  Learned how to work with images in python
+
+
 
