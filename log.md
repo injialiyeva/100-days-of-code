@@ -756,5 +756,11 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  Learned how to work with images in python
 
+--------------------------------------------------------------------------------------------
+
+### Day 92: September 27, 2021
+
+**Today's Progress**:  Learned how to create, modify, loop over a list and access each element 
+
 
 
