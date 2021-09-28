@@ -762,5 +762,11 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  Learned how to create, modify, loop over a list and access each element 
 
+--------------------------------------------------------------------------------------------
+
+### Day 93: September 28, 2021
+
+**Today's Progress**:  Did few challenges about Factorial
+
 
 
