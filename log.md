@@ -768,5 +768,11 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  Did few challenges about Factorial
 
+--------------------------------------------------------------------------------------------
+
+### Day 94: September 29, 2021
+
+**Today's Progress**:  Did get more practice with function parameters, learn about Python'sdoctest feature
+
 
 
