@@ -774,5 +774,19 @@ and started CSS Flexbox course :)
 
 **Today's Progress**:  Did get more practice with function parameters, learn about Python'sdoctest feature
 
+--------------------------------------------------------------------------------------------
+
+### Day 95: October 1, 2021
+
+**Today's Progress**: Learned about the SimpleImage library, wrote code that manipulate images
+
+--------------------------------------------------------------------------------------------
+
+### Day 96: October 14, 2021
+
+**Today's Progress**: Today I did some research and start to contribute to the @oppiaorg project. 
+
+
+
 
 
