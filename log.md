@@ -782,9 +782,19 @@ and started CSS Flexbox course :)
 
 --------------------------------------------------------------------------------------------
 
-### Day 96: October 14, 2021
+### Day 96: October 13, 2021
 
 **Today's Progress**: Today I did some research and start to contribute to the @oppiaorg project. 
+
+--------------------------------------------------------------------------------------------
+
+### Day 97: October 14, 2021
+
+**Today's Progress**: Continue to the contribution - read some documentation for tasks
+
+--------------------------------------------------------------------------------------------
+
+
 
 
 
