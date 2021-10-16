@@ -794,6 +794,12 @@ and started CSS Flexbox course :)
 
 --------------------------------------------------------------------------------------------
 
+### Day 98: October 15, 2021
+
+**Today's Progress**: Last 2 days to complete the challenge. Now I'm working on the first task of the Outreachy project 
+
+--------------------------------------------------------------------------------------------
+
 
 
 
