@@ -806,6 +806,11 @@ and started CSS Flexbox course :)
 
 --------------------------------------------------------------------------------------------
 
+### Day 100: October 19, 2021
+
+**Today's Progress**: What I did today: - completed some to-dos for the 1st task of contribution, - began to contribute 2nd task
+
+--------------------------------------------------------------------------------------------
 
 
 
