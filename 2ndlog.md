@@ -86,4 +86,5 @@
 
 ### Day 15 Round 2: February 17, 2022
 
-**Today's Progress**: Couldn't code today, instead of I read (this article)[https://css-tricks.com/snippets/css/a-guide-to-flexbox/] about CSS Flexbox 
+**Today's Progress**: Couldn't code today, instead of I read [this article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) about CSS Flexbox 
+
