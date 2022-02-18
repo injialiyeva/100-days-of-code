@@ -88,3 +88,11 @@
 
 **Today's Progress**: Couldn't code today, instead of I read [this article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) about CSS Flexbox 
 
+--------------------------------------------------------------------------------------------
+
+### Day 16 Round 2: February 18, 2022
+
+**Today's Progress**: Still working on CSS part of Landing Page project
+
+--------------------------------------------------------------------------------------------
+
