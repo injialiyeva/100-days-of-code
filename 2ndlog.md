@@ -96,3 +96,7 @@
 
 --------------------------------------------------------------------------------------------
 
+### Day 17 Round 2: February 19, 2022
+
+**Today's Progress**: Nothing new, still working on the CSS part of the Landing Page project
+
