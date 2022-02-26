@@ -100,3 +100,10 @@
 
 **Today's Progress**: Nothing new, still working on the CSS part of the Landing Page project
 
+--------------------------------------------------------------------------------------------
+
+### Day 18 Round 2: February 26, 2022
+
+**Today's Progress**: Doing CSS tasks for practice these days :)
+
+
