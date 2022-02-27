@@ -107,3 +107,9 @@
 **Today's Progress**: Doing CSS tasks for practice these days :)
 
 
+--------------------------------------------------------------------------------------------
+
+### Day 19 Round 2: February 27, 2022
+
+**Today's Progress**: I stopped working on CSS part of the Landing Page project, currently doing some CSS task daily
+
